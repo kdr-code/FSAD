@@ -1,0 +1,10 @@
+git config --global user.name "kdr-code"
+git config --global user.email "kdr.anandini@gmail.com"
+
+git config --list
+
+git init
+
+git status
+
+git add .
