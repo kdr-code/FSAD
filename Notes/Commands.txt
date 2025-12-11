@@ -8,3 +8,11 @@ git init
 git status
 
 git add .
+
+git commit -m "commit 1"
+
+git remote add origin https://github.com/kdr-code/FSAD.git
+
+git branch
+
+git push -u origin master
