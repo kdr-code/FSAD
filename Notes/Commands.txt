@@ -16,3 +16,10 @@ git remote add origin https://github.com/kdr-code/FSAD.git
 git branch
 
 git push -u origin master
+
+git checkout master
+(to access master branch)
+
+git merge frontend -m "merging frontend to master"
+
+git merge backend -m "merging backend to master"
